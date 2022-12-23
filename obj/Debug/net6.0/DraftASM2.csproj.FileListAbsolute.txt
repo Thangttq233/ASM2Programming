@@ -1,0 +1,15 @@
+C:\Users\thang\source\repos\DraftASM2\obj\Debug\net6.0\DraftASM2.csproj.AssemblyReference.cache
+C:\Users\thang\source\repos\DraftASM2\obj\Debug\net6.0\DraftASM2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thang\source\repos\DraftASM2\obj\Debug\net6.0\DraftASM2.AssemblyInfoInputs.cache
+C:\Users\thang\source\repos\DraftASM2\obj\Debug\net6.0\DraftASM2.AssemblyInfo.cs
+C:\Users\thang\source\repos\DraftASM2\obj\Debug\net6.0\DraftASM2.csproj.CoreCompileInputs.cache
+C:\Users\thang\source\repos\DraftASM2\bin\Debug\net6.0\DraftASM2.exe
+C:\Users\thang\source\repos\DraftASM2\bin\Debug\net6.0\DraftASM2.deps.json
+C:\Users\thang\source\repos\DraftASM2\bin\Debug\net6.0\DraftASM2.runtimeconfig.json
+C:\Users\thang\source\repos\DraftASM2\bin\Debug\net6.0\DraftASM2.dll
+C:\Users\thang\source\repos\DraftASM2\bin\Debug\net6.0\DraftASM2.pdb
+C:\Users\thang\source\repos\DraftASM2\obj\Debug\net6.0\DraftASM2.dll
+C:\Users\thang\source\repos\DraftASM2\obj\Debug\net6.0\refint\DraftASM2.dll
+C:\Users\thang\source\repos\DraftASM2\obj\Debug\net6.0\DraftASM2.pdb
+C:\Users\thang\source\repos\DraftASM2\obj\Debug\net6.0\DraftASM2.genruntimeconfig.cache
+C:\Users\thang\source\repos\DraftASM2\obj\Debug\net6.0\ref\DraftASM2.dll
